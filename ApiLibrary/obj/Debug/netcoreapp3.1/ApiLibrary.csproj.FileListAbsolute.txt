@@ -1,0 +1,8 @@
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\bin\Debug\netcoreapp3.1\ApiLibrary.deps.json
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\bin\Debug\netcoreapp3.1\ApiLibrary.dll
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\bin\Debug\netcoreapp3.1\ApiLibrary.pdb
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\obj\Debug\netcoreapp3.1\ApiLibrary.AssemblyInfoInputs.cache
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\obj\Debug\netcoreapp3.1\ApiLibrary.AssemblyInfo.cs
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\obj\Debug\netcoreapp3.1\ApiLibrary.dll
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\obj\Debug\netcoreapp3.1\ApiLibrary.pdb
+C:\Users\hanne\Source\Repos\KodtestRelationBrand\ApiLibrary\obj\Debug\netcoreapp3.1\ApiLibrary.csprojAssemblyReference.cache
