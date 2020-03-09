@@ -37,6 +37,7 @@ namespace KodtestRelationBrand
             {
                 Excel.NewExcelWoorkbook("SubscribersDB");
                 Excel.SubscribersToExcel(updatedSubscribers, "SubscribersDB");
+                Console.WriteLine($"{updatedSubscribers.Count} subscribers added to the database");
             }
             catch (Exception ex)
             {
